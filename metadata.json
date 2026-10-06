@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Management Dashboard",
+  "description": "A comprehensive inventory management dashboard with real data entry, authentication, stock tracking, and admin controls.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
